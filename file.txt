@@ -5,5 +5,4 @@ asljdhalk chalk
 Star wars
 dogs
 cats
-chipmunk is a good animal
-
+chipmunk is bad
