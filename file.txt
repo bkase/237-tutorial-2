@@ -2,7 +2,7 @@ herlo -- information
 goodbye
 asljdhalk chalk
 
-Star wars
+Star wars -- star dust
 dogs
 cats
 chipmunk is bad
