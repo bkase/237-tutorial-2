@@ -1,4 +1,4 @@
-herlo
+herlo -- information
 goodbye
 asljdhalk chalk
 
